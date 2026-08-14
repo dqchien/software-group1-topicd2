@@ -8,7 +8,7 @@ One-paragraph description of what your team is building goes here.
 | ----------------   | ---------------         | ------ |
 | Chu Vu Thao Hien   | dqchien                 | Leader |
 | Phan Thi Anh Quynh | quynhquynh-blip         | Member |
-
+| Bui Phuong Thao    | Buithaoaineu            | Member |
 ## Setup
 
 ```bash
