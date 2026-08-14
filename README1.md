@@ -4,9 +4,9 @@ One-paragraph description of what your team is building goes here.
 
 ## Team
 
-| Name                | GitHub username | Role |
-| ------------------- | --------------- | ---- |
-| _add yourself here_ |                 |      |
+| Name             | GitHub username | Role   |
+| ---------------- | --------------- | ------ |
+| Chu Vu Thao Hien | dqchien         | Leader |
 
 ## Setup
 
